@@ -1,0 +1,38 @@
+#pip install from requirment.txt
+#pakage        version
+ca-certificates  == 2021.10.8	
+certifi == 2020.12.5	
+dataclasses == 0.8	
+freetype == 2.10.4	
+jbig == 2.1	
+jpeg == 9d	
+lcms2 == 2.12	
+lerc == 3.0	
+libdeflate	==1.8	
+libpng == 1.6.37	
+libtiff == 4.3.0	
+libzlib==1.2.11	
+lmdb==1.2.1	
+lz4-c==1.9.3	
+numpy==1.19.5	
+olefile==0.46	
+opencv-python==4.5.4.60	
+openjpeg	==2.4.0	
+openssl==3.0.0	
+pillow==8.3.2	
+pip==21.3.1	
+python==3.6.13	
+python_abi==3.6	
+setuptools==27.2.0	
+six==1.16.0	
+sqlite==3.36.0	
+tk==8.6.11	
+torch==1.10.0	
+torchvision==0.11.1	
+typing-extensions==3.10.0.2	
+vc==14.2	
+vs2015_runtime==14.27.29016	
+wheel==0.37.0	
+xz==5.2.5	
+zlib==1.2.11	
+zstd==1.5.0	
